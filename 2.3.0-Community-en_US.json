@@ -1,5 +1,4 @@
- "modal": [
-    {
+{
       "version": "2.3.0",
       "edition": "Community",
       "locale": "en_US",
@@ -127,4 +126,3 @@
       ],
       "pageCount": 4
     }
-  ]
