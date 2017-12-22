@@ -1,5 +1,4 @@
-{
-  "modal": [
+ "modal": [
     {
       "version": "2.3.0",
       "edition": "Community",
@@ -129,4 +128,3 @@
       "pageCount": 4
     }
   ]
-}
